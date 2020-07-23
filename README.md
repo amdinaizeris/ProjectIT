@@ -1,10 +1,9 @@
 # ProjectIT
-Vue app
 
 Project Run
 
-npm install
+*npm install*
 
 Compile
 
-npm run serve
+*npm run serve*
